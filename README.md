@@ -7,8 +7,8 @@ North = 19% <br>
 Centre = 17%
 ![image](https://github.com/user-attachments/assets/57877ab2-c37e-45e3-9fb5-9fb35fe10d46)
 # HealthMax Growth
-In 2020, HealthMax grew by 4%.<br>
-Shinez contributed to this success with its 7.7% YOY growth.
+In 2020, HealthMax grew by 4%.<br> Shinez contributed to this success with its 7.7% YOY growth.
+
 ![image](https://github.com/user-attachments/assets/be71f3f6-8104-4e5f-aa9f-58ca07616665)
 
 
