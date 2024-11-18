@@ -8,6 +8,7 @@ Centre = 17%
 ![image](https://github.com/user-attachments/assets/57877ab2-c37e-45e3-9fb5-9fb35fe10d46)
 ### HealthMax Growth
 In 2020, HealthMax grew by 4%.<br> Shinez contributed to this success with its 7.7% YOY growth.
+
 ![image](https://github.com/user-attachments/assets/edcbe2db-8b44-4aba-a73a-89044d0b5912)
 <br>
 In the most recent 12 months shampoo generated a bit over ninety eight million dollars turnover.
