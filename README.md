@@ -1,8 +1,12 @@
 # FMCG-Net-Revenue-Management-Analysis
-It is a case study of HealthMax, a fictitious market leader in the Shampoo business. FreshCo Industries and GreenLeaf Distributors are another two main market leader after HealthMax. 
+It is a case study of HealthMax, a fictitious market leader in the Shampoo business. 
 ### Market Share 
+**Which brands are winning in the category**<br>
+HealthMax is market leader. FreshCo Industries and GreenLeaf Distributors are another two main market leader after HealthMax.
+**How is the category evolving by region** <br>
 HealthMax has two shampoo brands in the market : Shinez and Starbust<br>
 HealthMax has 22% of market share in South and is performing better in the South than the rest of the country.<br>
+South = 22% <br>
 North = 19% <br>
 Centre = 17%
 ![image](https://github.com/user-attachments/assets/57877ab2-c37e-45e3-9fb5-9fb35fe10d46)
