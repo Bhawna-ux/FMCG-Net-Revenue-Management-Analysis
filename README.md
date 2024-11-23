@@ -51,7 +51,7 @@ The offer given by Shinez of buy 2, get 20% off had generate 12% ROI.
 
 
 ### Questions 
-1. Why the data of 2023 has not shown in Growth section
+1. Why the data of 2023 has not shown in Growth section<br>
    Because it consist only first 3 months data.
 
 
