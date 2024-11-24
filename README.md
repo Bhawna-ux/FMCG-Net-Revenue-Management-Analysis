@@ -1,4 +1,4 @@
-# FMCG-Net-Revenue-Management-Analysis
+# Case Study : FMCG-Net-Revenue-Management-Analysis
 It is a case study of HealthMax, a fictitious market leader in the Shampoo business. 
 ### Market Share 
 **Which brands are winning in the category**<br>
