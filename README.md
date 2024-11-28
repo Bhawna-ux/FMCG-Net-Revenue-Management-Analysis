@@ -4,7 +4,7 @@ It is a case study of HealthMax, a fictitious market leader in the Shampoo busin
 **Which brands are winning in the category**<br>
 HealthMax is market leader. FreshCo Industries and GreenLeaf Distributors are another two main market leader after HealthMax.<br>
 **How is the category evolving by region** <br>
-HealthMax has two shampoo brands in the market : Shinez and Starbust<br>
+HealthMax has two shampoo brands in the market : Shinez and Starbust (Shinez is more popular)<br>
 HealthMax has 22% of market share in South and is performing better in the South than the rest of the country.<br>
 South = 22% <br>
 North = 19% <br>
