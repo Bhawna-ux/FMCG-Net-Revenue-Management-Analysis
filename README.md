@@ -1,7 +1,7 @@
 # Case Study : FMCG-Net-Revenue-Management-Analysis
 It is a case study of HealthMax, a fictitious market leader in the Shampoo business. 
 ### Market Share 
-**Which brands are winning in the category**<br>
+**Which brands are winning in the shampoo category**<br>
 HealthMax maintains its position as a market leader in the shampoo segment, ahead of FreshCo Industries and GreenLeaf Distributors. The company operates two major brands—Shinez and Starbust—with Shinez being the stronger performer, contributing significantly to brand equity and revenue.
 <br>
 **How is the category evolving by region** <br>
@@ -10,11 +10,12 @@ Geographically, HealthMax commands its highest market share in the South region 
 ![image](https://github.com/user-attachments/assets/57877ab2-c37e-45e3-9fb5-9fb35fe10d46)
 ### HealthMax Growth
 Over the last 12 months, the shampoo category generated $98 million+ in revenue, with HealthMax achieving a 4% YoY growth in 2020.<br> 
-Shinez contributed to this success with its 7.7% YOY growth.<br>
+Shinez contributed to this success with its 7.7% YOY growth.<br> <br>
 
 ![image](https://github.com/user-attachments/assets/edcbe2db-8b44-4aba-a73a-89044d0b5912)
 <br>
 ![image](https://github.com/user-attachments/assets/4c8da611-2620-45be-b510-8f6690fd7b1b)
+<br>
 <br>
 A profitability analysis revealed an inverse relationship between Gross Margin and Net Sales Contribution across product lines—indicating opportunities for strategic rebalancing.<br>
 The matrix shows a clear correlation between Gross Margin and Net Sales Contribution for the different product lines.<br>
