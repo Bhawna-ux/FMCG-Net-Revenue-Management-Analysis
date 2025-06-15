@@ -20,7 +20,7 @@ Shinez contributed to this success with its 7.7% YOY growth.<br> <br>
 <br>
 A profitability analysis revealed an inverse relationship between Gross Margin and Net Sales Contribution across product lines—indicating opportunities for strategic rebalancing.<br>
 The matrix shows a clear correlation between Gross Margin and Net Sales Contribution for the different product lines.<br>
-Products with higher Gross Margins generally have lower Net Sales Contributions, and vice versa. <br> 
+Products with higher Gross Margins generally have lower Net Sales Contributions, and vice versa. <br> <br>
 ![image](https://github.com/user-attachments/assets/7b6a35cc-53bc-42d7-896d-537c7006a58c)
 ### New Product Opportunity
 Currently, HealthMax is present in only 2 of the 5 shampoo subcategories, limiting its total addressable market. Among these, the Organic segment is the fastest-growing, projected to expand 20% year-over-year by end of 2024, based on March 2023 MAT values.
@@ -51,7 +51,9 @@ Revenue Outlook for 2024 is optimistic:<br>
 * 50ml Format Contribution: $265,960<br>
 * Natural Growth: $202,654 <br>
 <br>
+
 ![image](https://github.com/user-attachments/assets/c7b72c1c-4691-4746-be2e-cb6d7c5d6644)
+
 <br> <br>
 With a focused expansion into the organic segment, optimized promotions, and format innovation, HealthMax is well-positioned to accelerate both market share and profitability in 2024 and beyond.
 <br>
