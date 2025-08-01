@@ -1,5 +1,18 @@
 # Case Study : FMCG-Net-Revenue-Management-Analysis
-It is a case study of HealthMax, a fictitious market leader in the Shampoo business. 
+This analysis was conducted as a simulated business case for a fictional FMCG shampoo brand aiming to identify growth opportunities through data-driven revenue management strategies. The project involved market share assessment, category and SKU-level financial analysis, and promotional ROI modeling, using Excel-based tools and marketing strategy frameworks.
+### Business Objective
+Support category expansion, SKU planning, and promotional investment decisions for a leading hypothetical FMCG shampoo brand based on market and revenue data.
+### Executive Summary
+As per analysis, the south region emerged as the highest-potential geography with 22% market share, hence we should invest in this region more. The organic segment showed strong performance, projected to grow 20% YOY. We should proposed a 50ml size SKU as there is strong demand among consumers who travels a lot and it is estimated to generate $265k in net sales. Among various discounting strategies, a "Buy 2 Get 20% Off" campaign yielded the best ROI, Hence we can use this capaign for future promotions. This shows that HealthMax is well-positioned to accelerate both market share and profitability in 2024 and beyond.
+<br> <br>
+### Key Insights
+Geographic Expansion: South region (22% share) identified as highest growth potential. <br>
+Category Entry: Organic segment forecasted for 20% YoY growth. <br>
+SKU Innovation: Proposed 50ml travel-size shampoo format — expected to generate $265K in incremental sales. <br>
+Promotional ROI: “Buy 2, Get 20% Off” campaign delivered highest return (12%).
+
+### Tools & Techniques
+Microsoft Excel - Pivot Table, KPI, Lookup Functions, Conditional Formatting
 ### Market Share 
 **Which brands are winning in the shampoo category**<br>
 HealthMax maintains its position as a market leader in the shampoo segment, ahead of FreshCo Industries and GreenLeaf Distributors. The company operates two major brands—Shinez and Starbust—with Shinez being the stronger performer, contributing significantly to brand equity and revenue.
@@ -53,6 +66,7 @@ Revenue Outlook for 2024 is optimistic:<br>
 <br>
 
 ![image](https://github.com/user-attachments/assets/c7b72c1c-4691-4746-be2e-cb6d7c5d6644)
+
 
 <br> <br>
 With a focused expansion into the organic segment, optimized promotions, and format innovation, HealthMax is well-positioned to accelerate both market share and profitability in 2024 and beyond.
