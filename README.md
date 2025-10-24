@@ -1,7 +1,7 @@
 # Case Study : FMCG-Net-Revenue-Management-Analysis
 This analysis was conducted as a simulated business case for a FMCG shampoo brand aiming to identify growth opportunities through data-driven revenue management strategies. The project involved market share assessment, category and SKU-level financial analysis, and promotional ROI modeling, using Excel-based tools and marketing strategy frameworks.
 ### Business Objective
-Support category expansion, SKU planning, and promotional investment decisions for a leading hypothetical FMCG shampoo brand based on market and revenue data.
+Support category expansion, SKU planning, and promotional investment decisions for a leading FMCG shampoo brand based on market and revenue data.
 ### Executive Summary
 As per analysis, the south region emerged as the highest-potential geography with 22% market share, hence we should invest in this region more. The organic segment showed strong performance, projected to grow 20% YOY. We should proposed a 50ml size SKU as there is strong demand among consumers who travels a lot and it is estimated to generate $265k in net sales. Among various discounting strategies, a "Buy 2 Get 20% Off" campaign yielded the best ROI, Hence we can use this capaign for future promotions. This shows that HealthMax is well-positioned to accelerate both market share and profitability in 2024 and beyond.
 <br> <br>
