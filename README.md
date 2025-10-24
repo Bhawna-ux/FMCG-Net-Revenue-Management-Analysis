@@ -12,7 +12,7 @@ SKU Innovation: Proposed 50ml travel-size shampoo format — expected to generat
 Promotional ROI: “Buy 2, Get 20% Off” campaign delivered highest return (12%).
 
 
-### Market Share 
+### Product Performance
 **Which brands are winning in the shampoo category**<br>
 HealthMax maintains its position as a market leader in the shampoo segment, ahead of FreshCo Industries and GreenLeaf Distributors. The company operates two major brands—Shinez and Starbust—with Shinez being the stronger performer, contributing significantly to brand equity and revenue.
 <br>
