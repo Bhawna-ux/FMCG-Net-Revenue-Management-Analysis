@@ -1,7 +1,7 @@
 # Case Study : FMCG-Net-Revenue-Management-Analysis
-This analysis was conducted as a simulated business case for a FMCG shampoo brand aiming to identify growth opportunities through data-driven revenue management strategies. The project involved market share assessment, category and SKU-level financial analysis, and promotional ROI modeling, using Excel-based tools and marketing strategy frameworks.
+This analysis was conducted as a simulated business case for a FMCG shampoo brand (HealthMax) aiming to identify growth opportunities through data-driven revenue management strategies. The project involved market share assessment, category and SKU-level financial analysis, and promotional ROI modeling, using Excel-based tools and marketing strategy frameworks.
 ### Business Objective
-Support category expansion, SKU planning, and promotional investment decisions for a leading FMCG shampoo brand based on market and revenue data.
+Support category expansion, SKU planning, and promotional investment decisions for HeathMax a leading FMCG shampoo brand based on market and revenue data.
 ### Executive Summary
 As per analysis, the south region emerged as the highest-potential geography with 22% market share, hence we should invest in this region more. The organic segment showed strong performance, projected to grow 20% YOY. We should proposed a 50ml size SKU as there is strong demand among consumers who travels a lot and it is estimated to generate $265k in net sales. Among various discounting strategies, a "Buy 2 Get 20% Off" campaign yielded the best ROI, Hence we can use this capaign for future promotions. This shows that HealthMax is well-positioned to accelerate both market share and profitability in 2024 and beyond.
 <br> <br>
@@ -12,18 +12,18 @@ SKU Innovation: Proposed 50ml travel-size shampoo format — expected to generat
 Promotional ROI: “Buy 2, Get 20% Off” campaign delivered highest return (12%).
 
 
-### Product Performance
+### Market Share And Product Performance
 **Which brands are winning in the shampoo category**<br>
-HealthMax maintains its position as a market leader in the shampoo segment, ahead of FreshCo Industries and GreenLeaf Distributors. The company operates two major brands—Shinez and Starbust—with Shinez being the stronger performer, contributing significantly to brand equity and revenue.
+**HealthMax** maintains its position as a market leader in the shampoo segment, ahead of FreshCo Industries and GreenLeaf Distributors. The company operates two major brands— **Shinez and Starbust**—with Shinez being the stronger performer, contributing significantly to brand equity and revenue.
 <br>
 <br>
 **How is the category evolving by region** <br>
-Geographically, HealthMax commands its highest market share in the South region (22%), outperforming North (19%) and Central (17%). <br>
+Geographically, HealthMax commands its highest market share in the **South region** (22%), outperforming North (19%) and Central (17%). <br>
 <br>
 ![image](https://github.com/user-attachments/assets/57877ab2-c37e-45e3-9fb5-9fb35fe10d46)
 ### HealthMax Growth
 Over the last 12 months, the shampoo category generated $98 million+ in revenue, with HealthMax achieving a 4% YoY growth in 2020.<br> 
-Shinez contributed to this success with its 7.7% YOY growth.<br> <br>
+**Shinez** contributed to this success with its 7.7% YOY growth.<br> <br>
 
 ![image](https://github.com/user-attachments/assets/edcbe2db-8b44-4aba-a73a-89044d0b5912)
 <br>
