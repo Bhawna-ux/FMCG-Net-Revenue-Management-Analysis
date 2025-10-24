@@ -1,5 +1,5 @@
 # Case Study : FMCG-Net-Revenue-Management-Analysis
-This analysis was conducted as a simulated business case for a fictional FMCG shampoo brand aiming to identify growth opportunities through data-driven revenue management strategies. The project involved market share assessment, category and SKU-level financial analysis, and promotional ROI modeling, using Excel-based tools and marketing strategy frameworks.
+This analysis was conducted as a simulated business case for a FMCG shampoo brand aiming to identify growth opportunities through data-driven revenue management strategies. The project involved market share assessment, category and SKU-level financial analysis, and promotional ROI modeling, using Excel-based tools and marketing strategy frameworks.
 ### Business Objective
 Support category expansion, SKU planning, and promotional investment decisions for a leading hypothetical FMCG shampoo brand based on market and revenue data.
 ### Executive Summary
